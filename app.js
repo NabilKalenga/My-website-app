@@ -1,4 +1,4 @@
-const animalDiv = document.getElementById('animal-div');
+const animalDiv = document.getElementById ('animal-div');
 const animalButton= document.getElementById('show-animal');
 
 const powerDiv = document.getElementById('power-div');
